@@ -1,0 +1,23 @@
+
+  - id: "99b1-08d2-7052"
+    web:
+      metaDescription: ""
+      metaTitle: "Meet the Team"
+      metaLinkText: "Meet the Team"
+      metaKeywords: null
+      pathPart: "meet-the-team"
+      path: "/about-us/meet-the-team/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/about-us/"
+    meta:
+      sort: 44
+      listed: true
+    data:
+      body_text: "<p>Seville Animal Hospital is proud to serve the Seville, OH, area for everything pet related.&nbsp; Dr. Patricia Faust, a licensed, experienced Seville veterinarian, runs our veterinary clinic and animal hospital.&nbsp;</p>\n<p>Our team is committed to educating our clients on how to keep their pets healthy year round, with good nutrition and exercise.&nbsp; Seville Animal Hospital stays on top of the latest advances in veterinarian technology and remembers that all animals and pets need to be treated with loving care in every check-up, procedure, or surgery.</p>\n<p></p>\n<p><img src=\"https://xv4bxh1p.media.zestyio.com/Best-of-the-best.SJiczKb6j.png\" data-id=\"3-f3f7493-cgr89k\" title=\"Best-of-the-best.SJiczKb6j.png\" alt=\"Best-of-the-best.SJiczKb6j.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>"
+      main_image: "https://ddp2ys.media.zestyio.com/pet-kittens-outdoors-grass.jpg"
+      main_image_alt_text: "five kittens in the grass"
+      number_of_cols: "4"
+      page_title: "Meet the Team"

@@ -1,0 +1,70 @@
+
+  - id: "97fc-bbde-f691"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 17
+      listed: true
+    data:
+      bubble_blurb: ""
+      bubble_image: "https://ddp2ys.media.zestyio.com/small-fluff-dog-adorbale.jpg"
+      bubble_image_alt_text: ""
+      bubble_subtitle: ""
+      bubble_title: " 2020 BEST VETERINARIAN in Medina County "
+      sort_order: 1
+  - id: "527e-730e-b7e8"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 18
+      listed: true
+    data:
+      bubble_blurb: ""
+      bubble_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/timeline-senior.jpg"
+      bubble_image_alt_text: ""
+      bubble_subtitle: ""
+      bubble_title: ""
+      sort_order: 3
+  - id: "bbe2-bc2d-3fa7"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 16
+      listed: true
+    data:
+      bubble_blurb: ""
+      bubble_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/timeline-kitten.jpeg"
+      bubble_image_alt_text: ""
+      bubble_subtitle: ""
+      bubble_title: ""
+      sort_order: 2

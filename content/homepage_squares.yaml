@@ -1,0 +1,73 @@
+
+  - id: "3156-5809-f692"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 19
+      listed: true
+    data:
+      background_image_alt_text: "doctors jacket with stethoscope "
+      button_text: "Learn More"
+      image: "https://ddp2ys.media.zestyio.com/sevices-home.jpeg"
+      image_title: "Services"
+      links_to: "6d92-44fc-35a7"
+      links_to_external: ""
+      sort_order: 1
+  - id: "0385-719a-ba31"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 20
+      listed: true
+    data:
+      background_image_alt_text: "Five kittens in the grass"
+      button_text: "Learn More"
+      image: "https://ddp2ys.media.zestyio.com/pet-kittens-outdoors-grass.jpg"
+      image_title: "Meet The Team"
+      links_to: "99b1-08d2-7052"
+      links_to_external: ""
+      sort_order: 2
+  - id: "3eea-44ef-fc0d"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 21
+      listed: true
+    data:
+      background_image_alt_text: "Cat in a bike basket "
+      button_text: "Shop"
+      image: "https://ddp2ys.media.zestyio.com/pet-city-toy-play-grass.jpg"
+      image_title: "Online Pharmacy"
+      links_to: ""
+      links_to_external: "https://sevilleanimalhospital.vetsfirstchoice.com/"
+      sort_order: 3

@@ -1,0 +1,39 @@
+
+  - id: "e7fd-c277-606b"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 49
+      listed: true
+    data:
+      employee_category: "Doctors"
+      sort_order: 1
+  - id: "238d-e206-92d3"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 50
+      listed: true
+    data:
+      employee_category: "Staff"
+      sort_order: 2

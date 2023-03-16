@@ -1,0 +1,61 @@
+
+  - id: "5bc3-d016-4386"
+    web:
+      metaDescription: ""
+      metaTitle: "Facebook"
+      metaLinkText: "Facebook"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 10
+      listed: true
+    data:
+      font_awesome_icon: "yelp"
+      name: "Yelp"
+      url: "https://www.yelp.com/biz/seville-animal-hospital-seville-3"
+  - id: "3628-0792-d787"
+    web:
+      metaDescription: ""
+      metaTitle: "Instagram"
+      metaLinkText: "Instagram"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 12
+      listed: true
+    data:
+      font_awesome_icon: "facebook"
+      name: "Facebook"
+      url: "https://www.facebook.com/sevilleanimalhospital/"
+  - id: "e12f-781b-33dc"
+    web:
+      metaDescription: ""
+      metaTitle: "Twitter"
+      metaLinkText: "Twitter"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 11
+      listed: true
+    data:
+      font_awesome_icon: "twitter"
+      name: "Twitter"
+      url: "https://twitter.com/SAHWELOVEPETS"

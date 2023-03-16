@@ -1,0 +1,22 @@
+
+  - id: "fe61-2e4c-b68e"
+    web:
+      metaDescription: ""
+      metaTitle: "Resources"
+      metaLinkText: "Resources"
+      metaKeywords: null
+      pathPart: "resources"
+      path: "/resources/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 5
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/standard-hero.jpg"
+      main_image_alt_text: ""
+      page_title: "Resources"

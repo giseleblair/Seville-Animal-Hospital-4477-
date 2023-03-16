@@ -1,0 +1,55 @@
+
+  - id: "b4ff-ea6f-d5d3"
+    web:
+      metaDescription: ""
+      metaTitle: "Special Offers"
+      metaLinkText: "Special Offers"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 15
+      listed: true
+    data:
+      background_image: "https://ddp2ys.media.zestyio.com/pets-field-flowers-two-cats.jpg"
+      background_image_alt_text: "two cats in a flower field"
+      background_video: ""
+      background_video_alt_text: ""
+      button_text: "Learn More"
+      horizontal_alignment_for_mobile: "center"
+      links_to: "9202-7604-7a27"
+      second_line: "We are dedicated to providing excellent care."
+      sort_order: 1
+      title: "Finest Veterinary Care"
+  - id: "d2eb-c97b-baea"
+    web:
+      metaDescription: ""
+      metaTitle: "Care and Wellness for Your Pet"
+      metaLinkText: "Care and Wellness for Your Pet"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 14
+      listed: true
+    data:
+      background_image: "https://ddp2ys.media.zestyio.com/pet-night-garden-yellow-animal.jpg"
+      background_image_alt_text: "Golden Retriever "
+      background_video: ""
+      background_video_alt_text: ""
+      button_text: "Contact us"
+      horizontal_alignment_for_mobile: "center"
+      links_to: "6afe-abd1-74b7"
+      second_line: "Welcome To Seville Animal Hospital"
+      sort_order: 1
+      title: "Est. 1996"

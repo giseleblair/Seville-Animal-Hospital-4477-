@@ -1,0 +1,22 @@
+
+  - id: "9202-7604-7a27"
+    web:
+      metaDescription: ""
+      metaTitle: "About Us"
+      metaLinkText: "About Us"
+      metaKeywords: null
+      pathPart: "about-us"
+      path: "/about-us/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      body_text: "<p><strong>Mission Statement</strong></p>\n<p>Our mission is to provide high quality, compassionate care to each individual animal. The Seville Animal Hospital team is dedicated to preventing, detecting and treating diseases early to ensure that your companion lives a long, happy life. It is equally important to us that each visit be a pleasant and memorable one. We strive for friendly service and a comfortable atmosphere while building a long-term trusting relationship with you and your family.</p>\n<p>We have a number of resources for you to learn about how to take better care of your pets. Browse around and look at our articles and pet videos. The best veterinary care for animals is ongoing nutrition and problem prevention. If you want to ask a question call&nbsp;<a href=\"tel:330-769-3838\">330-769-3838</a>&nbsp;or email us and we'll promptly get back to you. Our Seville veterinary office is very easy to get to, and you can find directions on our Contact Us page. You can also subscribe to our newsletter which is created especially for Seville pet owners. In between your veterinary visits, your pet will benefit from you reading these free informative articles.</p>\n<p>At Seville Animal Hospital, we treat your pets like the valued family members they are.</p>\n<p style=\"text-align: center;\">&nbsp;<strong>2020 BEST VETERINARIAN in Medina County&nbsp;</strong></p>\n<p></p>\n<p><img src=\"https://xv4bxh1p.media.zestyio.com/winner-badge-4477.jpeg\" data-id=\"3-bc61693-gw73tv\" title=\"winner-badge-4477.jpeg\" alt=\"winner-badge-4477.jpeg\" width=\"284\" height=\"315\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>"
+      main_image: "https://ddp2ys.media.zestyio.com/pet-kittens-sleep-blanket.jpg"
+      main_image_alt_text: "two kittens sleeping in a red blanket"
+      page_title: "About Us"

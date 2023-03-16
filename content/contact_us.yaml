@@ -1,0 +1,32 @@
+
+  - id: "6afe-abd1-74b7"
+    web:
+      metaDescription: ""
+      metaTitle: "Contact Us"
+      metaLinkText: "Contact Us"
+      metaKeywords: null
+      pathPart: "contact-us"
+      path: "/contact-us/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 6
+      listed: true
+    data:
+      address_one: ""
+      address_three: ""
+      address_two: "Address:<br/>175 Center Street<br/>Seville, OH 44273"
+      general_info_one: "<p>For general information, questions, appointment requests, call us at:</p>"
+      general_info_three: ""
+      general_info_two: ""
+      google_map_embed: "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12040.202949933797!2d-81.8635337!3d41.0241459!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfb0804ea8c341553!2sSeville%20Animal%20Hospital!5e0!3m2!1sen!2sus!4v1617608255092!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>"
+      hours_title: "Hours"
+      main_image: "https://ddp2ys.media.zestyio.com/pet-dog-cat-together-sniff.jpg"
+      main_image_alt_text: "red dog sniffing black cats head"
+      page_title: "Contact Us"
+      phone_number_one: "<p>(330) 769-3838&nbsp;</p>"
+      phone_number_two: ""
+      special_hours_info: ""

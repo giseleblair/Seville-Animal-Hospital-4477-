@@ -1,0 +1,52 @@
+
+  - type: "link"
+    attributes:
+      href: "https://fonts.googleapis.com/css2?family=Droid Serif:300,400,500,600,700"
+      rel: "stylesheet"
+    sort: 10
+  - type: "meta"
+    attributes:
+      content: "text/html;charset=utf-8"
+      http-equiv: "Content-Type"
+    sort: 9
+  - type: "link"
+    attributes:
+      href: "https://fonts.googleapis.com/css2?family=Hind:300,400,500,600,700"
+      rel: "stylesheet"
+    sort: 10
+  - type: "link"
+    attributes:
+      href: "https://fonts.googleapis.com/css2?family=Montserrat:300,400,500,600,700"
+      rel: "stylesheet"
+    sort: 10
+  - type: "link"
+    attributes:
+      href: "//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      rel: "stylesheet"
+    sort: 10
+  - type: "link"
+    attributes:
+      href: "//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+      rel: "stylesheet"
+    sort: 4
+  - type: "script"
+    attributes:
+      src: "//code.jquery.com/jquery-1.12.4.min.js"
+    sort: 1
+  - type: "meta"
+    attributes:
+      content: "width=device-width, initial-scale=1.0"
+      name: "viewport"
+    sort: 11
+  - type: "script"
+    attributes:
+      src: "//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+    sort: 5
+  - type: "script"
+    attributes:
+      src: "//cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.5/validator.js"
+    sort: 3
+  - type: "script"
+    attributes:
+      src: "//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"
+    sort: 8

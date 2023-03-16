@@ -1,0 +1,22 @@
+
+  - id: "ab7c-4a7b-5004"
+    web:
+      metaDescription: ""
+      metaTitle: "Our Photos"
+      metaLinkText: "Our Photos"
+      metaKeywords: null
+      pathPart: "our-photos"
+      path: "/about-us/our-photos/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/about-us/"
+    meta:
+      sort: 48
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-our-photos.jpeg"
+      main_image_alt_text: ""
+      page_title: "Our Photos"

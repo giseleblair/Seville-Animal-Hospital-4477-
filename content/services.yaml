@@ -1,0 +1,22 @@
+
+  - id: "6d92-44fc-35a7"
+    web:
+      metaDescription: ""
+      metaTitle: "Services"
+      metaLinkText: "Services"
+      metaKeywords: null
+      pathPart: "services"
+      path: "/services/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 2
+      listed: true
+    data:
+      body_text: "<p>Below is a list of services that we offer:</p>\n<ul>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Wellness Exams</p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Puppy and Kitten Care</p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Radiographs</p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Dental Care</p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Surgical Services</p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Fully Stocked Pharmacy</p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Nutritional Counseling</p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Vaccinations</p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Parasite &amp; Prevention Control</p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Hospice and Euthanasia</p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Microchipping</p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Pain Management</p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Grooming</p>\n</li>\n<li dir=\"ltr\" style=\"list-style-type: disc;\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">Boarding</p>\n</li>\n</ul>"
+      main_image: "https://ddp2ys.media.zestyio.com/sevices-home.jpeg"
+      main_image_alt_text: "doctors jacket with stethoscope "
+      page_title: "Our Services"

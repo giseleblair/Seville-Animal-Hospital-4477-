@@ -1,0 +1,22 @@
+
+  - id: "6a35-fa10-24be"
+    web:
+      metaDescription: ""
+      metaTitle: "FAQ"
+      metaLinkText: "FAQ"
+      metaKeywords: null
+      pathPart: "faq"
+      path: "/resources/faq/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 30
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/standard-hero.jpg"
+      main_image_alt_text: ""
+      page_title: "FAQ"

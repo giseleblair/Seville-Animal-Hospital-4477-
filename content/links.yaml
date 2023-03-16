@@ -1,0 +1,22 @@
+
+  - id: "09ea-de58-5e1a"
+    web:
+      metaDescription: ""
+      metaTitle: "Links"
+      metaLinkText: "Links"
+      metaKeywords: null
+      pathPart: "links"
+      path: "/resources/links/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 32
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/standard-hero.jpg"
+      main_image_alt_text: ""
+      page_title: "Links"

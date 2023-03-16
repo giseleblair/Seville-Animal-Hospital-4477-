@@ -1,0 +1,148 @@
+
+  - id: "b59a-d81c-b776"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 27
+      listed: true
+    data:
+      close: "6:00"
+      day_of_week: "Thursday"
+      open: "8:00"
+      sort_order: 5
+  - id: "4767-5f11-afa3"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 23
+      listed: true
+    data:
+      close: ""
+      day_of_week: "Sunday"
+      open: ""
+      sort_order: 8
+  - id: "f645-3cc7-c64e"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 29
+      listed: true
+    data:
+      close: "12:00"
+      day_of_week: "Saturday"
+      open: "8:00"
+      sort_order: 7
+  - id: "ad8a-4cd6-9636"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 28
+      listed: true
+    data:
+      close: "6:00"
+      day_of_week: "Friday"
+      open: "8:00"
+      sort_order: 6
+  - id: "8068-d201-acf3"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 25
+      listed: true
+    data:
+      close: "6:00"
+      day_of_week: "Tuesday"
+      open: "8:00"
+      sort_order: 3
+  - id: "2485-8b4e-b570"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 24
+      listed: true
+    data:
+      close: "6:00"
+      day_of_week: "Monday"
+      open: "8:00"
+      sort_order: 2
+  - id: "878d-377c-8f9b"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 26
+      listed: true
+    data:
+      close: "6:00"
+      day_of_week: "Wednesday"
+      open: "8:00"
+      sort_order: 4

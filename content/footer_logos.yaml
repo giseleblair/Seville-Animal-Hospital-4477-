@@ -1,0 +1,41 @@
+
+  - id: "67a8-b538-092c"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 8
+      listed: false
+    data:
+      footer_logo: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/zesty_footer_logo.png"
+      logo_alt_text: ""
+      sort_order: 1
+  - id: "bd75-c5d2-d777"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 9
+      listed: false
+    data:
+      footer_logo: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/gold_seal_logo.png"
+      logo_alt_text: ""
+      sort_order: 2

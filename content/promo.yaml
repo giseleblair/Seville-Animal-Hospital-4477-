@@ -1,0 +1,49 @@
+
+  - id: "a315-e3ca-7367"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 33
+      listed: true
+    data:
+      promo_code: ""
+      promo_description: ""
+      promo_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/promotions-first-appt.jpg"
+      promo_image_alt_text: ""
+      promo_print_coupon: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/FREEFirstExamCoupon.pdf"
+      promo_title: ""
+      sort_order: 1
+  - id: "ec4b-c83b-440b"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 34
+      listed: true
+    data:
+      promo_code: ""
+      promo_description: ""
+      promo_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/promotions-no-fleas.png"
+      promo_image_alt_text: null
+      promo_print_coupon: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/2016AppCoupon.PDF"
+      promo_title: ""
+      sort_order: 2

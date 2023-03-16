@@ -1,0 +1,22 @@
+
+  - id: "7113-2df5-578a"
+    web:
+      metaDescription: ""
+      metaTitle: "Careers"
+      metaLinkText: "Careers"
+      metaKeywords: null
+      pathPart: "careers"
+      path: "/about-us/careers/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/about-us/"
+    meta:
+      sort: 46
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://ddp2ys.media.zestyio.com/pet-laptop-dog-paw-contact.jpg"
+      main_image_alt_text: "Dog in a computer "
+      page_title: "Employment Opportunity"

@@ -1,0 +1,70 @@
+
+  - id: "024f-5e90-a876"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 63
+      listed: true
+    data:
+      office_photo: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/office-photo-front-office.jpg"
+      office_photo_alt_text: ""
+      photo_category: ""
+      photo_description: ""
+      photo_title: ""
+      sort_order: 1
+  - id: "c8d5-5f41-6974"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 64
+      listed: true
+    data:
+      office_photo: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/office-photos-backoffice.jpg"
+      office_photo_alt_text: ""
+      photo_category: ""
+      photo_description: ""
+      photo_title: ""
+      sort_order: 2
+  - id: "02f5-2cd6-1c28"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 65
+      listed: true
+    data:
+      office_photo: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/office-photo-exam-room.JPG"
+      office_photo_alt_text: ""
+      photo_category: ""
+      photo_description: ""
+      photo_title: ""
+      sort_order: 3

@@ -1,0 +1,2633 @@
+
+  - description: null
+    label: "Globals"
+    name: "clippings"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: null
+    content: "/content/clippings.yaml"
+    fields:
+      - name: "site_name"
+        label: "Site Name"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "hero_lead_in_font_size"
+        label: "Hero Lead-in Font Size (pixels)"
+        description: null
+        datatype: "text"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "hero_body_text_font_size"
+        label: "Hero Body Text Font Size (pixels)"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "homepage_header_font_style"
+        label: "Homepage Hero Text Font Style (separate multiple value with a comma)"
+        description: null
+        datatype: "text"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "logo"
+        label: "Site Logo"
+        description: null
+        datatype: "images"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "logo_height"
+        label: "Logo Height (pixels)"
+        description: null
+        datatype: "text"
+        sort: 6
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "below_logo_text"
+        label: "Below Logo Text"
+        description: null
+        datatype: "text"
+        sort: 7
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "footer_text"
+        label: "Footer Text"
+        description: null
+        datatype: "text"
+        sort: 8
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "phone"
+        label: "Main Phone"
+        description: null
+        datatype: "text"
+        sort: 9
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "telephone_number_height"
+        label: "Telephone Number Height (pixels)"
+        description: null
+        datatype: "text"
+        sort: 10
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "petdesk_ref_code"
+        label: "Petdesk Reference Code"
+        description: null
+        datatype: "text"
+        sort: 11
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "pop_up_content"
+        label: "Pop-up Content"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 12
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "About Us"
+    name: "about_us"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/about_us.tpl"
+    content: "/content/about_us.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Services"
+    name: "services"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/services.tpl"
+    content: "/content/services.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Patient Resources"
+    name: "patient_resources"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/patient_resources.tpl"
+    content: "/content/patient_resources.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Promotions"
+    name: "promotions"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/promotions.tpl"
+    content: "/content/promotions.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Resources"
+    name: "resources"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/resources.tpl"
+    content: "/content/resources.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Contact Us"
+    name: "contact_us"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/contact_us.tpl"
+    content: "/content/contact_us.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "address_one"
+        label: "Address 1"
+        description: null
+        datatype: "text"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "address_two"
+        label: "Address 2"
+        description: null
+        datatype: "text"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "address_three"
+        label: "Address 3"
+        description: null
+        datatype: "text"
+        sort: 6
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "general_info_one"
+        label: "General Info 1"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 7
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "phone_number_one"
+        label: "Phone Number 1"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 8
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "general_info_two"
+        label: "General Info 2"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 9
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "hours_title"
+        label: "Hours Title, e.g. Hours of Operation"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 10
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "phone_number_two"
+        label: "Phone Number 2"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 11
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "special_hours_info"
+        label: "Special Hours Info"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 12
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "general_info_three"
+        label: "General Info 3"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 13
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "google_map_embed"
+        label: "Google Map Embed"
+        description: null
+        datatype: "textarea"
+        sort: 14
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Generic Page"
+    name: "generic_page"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/generic_page.tpl"
+    content: "/content/generic_page.yaml"
+    fields:
+      - name: "title"
+        label: "Page Title (h1)"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "content"
+        label: "Page Content"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Homepage"
+    name: "homepage"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/homepage.tpl"
+    content: "/content/homepage.yaml"
+    fields:
+      - name: "homepage_title"
+        label: "Homepage Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "background_pattern"
+        label: "Background Pattern"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "timeline_title"
+        label: "Timeline Title (leave blank if you do not want a timeline on your site)"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "timeline_subtitle"
+        label: "Timeline Subtitle"
+        description: null
+        datatype: "text"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "timeline_button_text"
+        label: "Timeline Button Text"
+        description: null
+        datatype: "text"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "timeline_btn_links_to"
+        label: "Timeline Button Links To"
+        description: null
+        datatype: "internal_link"
+        sort: 6
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Footer Logos"
+    name: "footer_logos"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: null
+    content: "/content/footer_logos.yaml"
+    fields:
+      - name: "logo_alt_text"
+        label: "Logo Alt Text"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "footer_logo"
+        label: "Footer Logo"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Footer Links e.g. Terms of Use"
+    name: "footer_links"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: null
+    content: "/content/footer_links.yaml"
+    fields:
+      - name: "link_title"
+        label: "Link Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "link"
+        label: "Link"
+        description: null
+        datatype: "text"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Custom Form Fields"
+    name: "custom_form_fields"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: null
+    content: "/content/custom_form_fields.yaml"
+    fields:
+      - name: "custom_field_name"
+        label: "Custom Form Name"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "field_type_toggle"
+        label: "Field Type (text: 150 character limit; textarea: unlimited)"
+        description: null
+        datatype: "yes_no"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+          options:
+            0: "Text"
+            1: "Textarea"
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Social Links"
+    name: "social_links"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: null
+    content: "/content/social_links.yaml"
+    fields:
+      - name: "name"
+        label: "Social Media Name"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "font_awesome_icon"
+        label: "Font Awesome Icon Name"
+        description: null
+        datatype: "text"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "url"
+        label: "Social Media Link"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Accessibility Colors"
+    name: "accessibility_colors"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: null
+    content: "/content/accessibility_colors.yaml"
+    fields:
+      - name: "site_wide"
+        label: "1. Site Wide"
+        description: null
+        datatype: "color"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "subpage_headers_h1"
+        label: "2. Subpage Headers"
+        description: null
+        datatype: "color"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "subpage_hero_text"
+        label: "3. Subpage Hero Text"
+        description: null
+        datatype: "color"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "h3_headers_squares_title"
+        label: "4. Homepage Square Titles"
+        description: null
+        datatype: "color"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "homepage_squares_buttons"
+        label: "5. Homepage Squares Buttons"
+        description: null
+        datatype: "color"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "homepage_squares_buttons_hover"
+        label: "6. Homepage Squares Buttons Hover"
+        description: null
+        datatype: "color"
+        sort: 6
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "h3_headers_employee_cats"
+        label: "7. Employee Cats"
+        description: null
+        datatype: "color"
+        sort: 7
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "links"
+        label: "8. Links"
+        description: null
+        datatype: "color"
+        sort: 8
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "link_hover_color"
+        label: "9. Link Hover Color"
+        description: null
+        datatype: "color"
+        sort: 9
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "all_icons"
+        label: "10. All Icons"
+        description: null
+        datatype: "color"
+        sort: 10
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "social_icon_hover"
+        label: "11. Social Icon Hover"
+        description: null
+        datatype: "color"
+        sort: 11
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "phone_number"
+        label: "12. Header Phone Number"
+        description: null
+        datatype: "color"
+        sort: 12
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "all_buttons"
+        label: "13. All Buttons (except for Squares)"
+        description: null
+        datatype: "color"
+        sort: 13
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "all_buttons_hover"
+        label: "14. All Buttons Hover (except for Squares and Timeline)"
+        description: null
+        datatype: "color"
+        sort: 14
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "site_name"
+        label: "15. Site Name"
+        description: null
+        datatype: "color"
+        sort: 15
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "site_name_hover"
+        label: "16. Site Name Hover"
+        description: null
+        datatype: "color"
+        sort: 16
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "all_nav_items"
+        label: "17. All Nav Items"
+        description: null
+        datatype: "color"
+        sort: 17
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "all_nav_items_hover"
+        label: "18. All Nav Items Hover Background Color"
+        description: null
+        datatype: "color"
+        sort: 18
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "nav_active_item_bg_color"
+        label: "19. Nav Active Item Background Color"
+        description: null
+        datatype: "color"
+        sort: 19
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "slider_text"
+        label: "20. Slider Text"
+        description: null
+        datatype: "color"
+        sort: 20
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "all_timeline_titles"
+        label: "21. Timeline Title, Bubble Titles and Bubble Subtitles"
+        description: null
+        datatype: "color"
+        sort: 21
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "timeline_body_text_header_subtitle"
+        label: "22. Timeline Body Text and Main Subtitle"
+        description: null
+        datatype: "color"
+        sort: 22
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "timeline_button"
+        label: "23. Timeline Button"
+        description: null
+        datatype: "color"
+        sort: 23
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "timeline_button_hover"
+        label: "24. Timeline Button Hover"
+        description: null
+        datatype: "color"
+        sort: 24
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "homepage_about_section"
+        label: "25. Homepage About Section"
+        description: null
+        datatype: "color"
+        sort: 25
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "footer_text"
+        label: "26. Footer Text"
+        description: null
+        datatype: "color"
+        sort: 26
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sectionlinks"
+        label: "27. Sectionlinks"
+        description: null
+        datatype: "color"
+        sort: 27
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "testimonial_headline_and_location"
+        label: "28. Testimonial Header and Location"
+        description: null
+        datatype: "color"
+        sort: 28
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "testimonial_name_and_body_text"
+        label: "29. Testimonial Customer Name and Body Text"
+        description: null
+        datatype: "color"
+        sort: 29
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Homepage Slides"
+    name: "homepage_slides"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "homepage"
+    content: "/content/homepage_slides.yaml"
+    fields:
+      - name: "title"
+        label: "Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "second_line"
+        label: "Second Line"
+        description: null
+        datatype: "text"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "background_video"
+        label: "Background Video"
+        description: null
+        datatype: "files"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "background_video_alt_text"
+        label: "Background Video Alt Text"
+        description: null
+        datatype: "text"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "background_image"
+        label: "Background Image (Fallback Image if Video)"
+        description: null
+        datatype: "images"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "background_image_alt_text"
+        label: "Background Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 6
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "horizontal_alignment_for_mobile"
+        label: "Horizontal Alignment for Mobile (works with non-video sliders only)"
+        description: null
+        datatype: "dropdown"
+        sort: 7
+        required: null
+        relationship: null
+        settings:
+          list: 1
+          options:
+            center: "Center"
+            left: "Left"
+            right: "Right"
+      - name: "button_text"
+        label: "Button Text"
+        description: null
+        datatype: "text"
+        sort: 8
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "links_to"
+        label: "Links To"
+        description: null
+        datatype: "internal_link"
+        sort: 9
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 10
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Homepage Timeline"
+    name: "home_page_about_timeline"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "homepage"
+    content: "/content/home_page_about_timeline.yaml"
+    fields:
+      - name: "bubble_title"
+        label: "Bubble Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "bubble_subtitle"
+        label: "Bubble Subtitle"
+        description: null
+        datatype: "text"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "bubble_image"
+        label: "Bubble Image"
+        description: null
+        datatype: "images"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "bubble_image_alt_text"
+        label: "Bubble Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "bubble_blurb"
+        label: "Bubble Blurb"
+        description: null
+        datatype: "textarea"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 6
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Homepage Squares"
+    name: "homepage_squares"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "homepage"
+    content: "/content/homepage_squares.yaml"
+    fields:
+      - name: "image_title"
+        label: "Image Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "image"
+        label: "Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "background_image_alt_text"
+        label: "Background Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "button_text"
+        label: "Button Text"
+        description: null
+        datatype: "text"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "links_to_external"
+        label: "Links to (external)"
+        description: null
+        datatype: "link"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "links_to"
+        label: "Links To"
+        description: null
+        datatype: "internal_link"
+        sort: 6
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 7
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "About Section"
+    name: "about_section"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "homepage"
+    content: "/content/about_section.yaml"
+    fields:
+      - name: "about_section_title"
+        label: "About Section Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "about_section_image"
+        label: "About Section Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "about_section_image_alt_text"
+        label: "About Section Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "about_section_copy"
+        label: "About Section Copy"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "about_section_button_txt"
+        label: "About Section Button Text"
+        description: null
+        datatype: "text"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "about_section_btn_links_to"
+        label: "About Section Button Links To"
+        description: null
+        datatype: "internal_link"
+        sort: 6
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 7
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Hours of Operation (leave blank if closed)"
+    name: "hours_of_operation"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "contact_us"
+    content: "/content/hours_of_operation.yaml"
+    fields:
+      - name: "day_of_week"
+        label: "Day of Week"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "open"
+        label: "Open"
+        description: null
+        datatype: "text"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "close"
+        label: "Close"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "FAQ"
+    name: "faq"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: "resources"
+    view: "/views/faq.tpl"
+    content: "/content/faq.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Breeder Questions"
+    name: "breeder_questions"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: "resources"
+    view: "/views/breeder_questions.tpl"
+    content: "/content/breeder_questions.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Links"
+    name: "links"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: "resources"
+    view: "/views/links.tpl"
+    content: "/content/links.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Frequently Asked Questions"
+    name: "frequently_asked_questions"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "faq"
+    content: "/content/frequently_asked_questions.yaml"
+    fields:
+      - name: "question"
+        label: "Question"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "answer"
+        label: "Answer"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Breeder Questions"
+    name: "breeder_q"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "breeder_questions"
+    content: "/content/breeder_q.yaml"
+    fields:
+      - name: "question"
+        label: "Question"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "answer"
+        label: "Answer"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "External Links"
+    name: "external_links"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "links"
+    content: "/content/external_links.yaml"
+    fields:
+      - name: "link_title"
+        label: "Link Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "link_url"
+        label: "Link Url"
+        description: null
+        datatype: "textarea"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Special Promotions"
+    name: "promo"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "promotions"
+    content: "/content/promo.yaml"
+    fields:
+      - name: "promo_title"
+        label: "Promo Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "promo_description"
+        label: "Promo Description"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "promo_image"
+        label: "Promo Image"
+        description: null
+        datatype: "images"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "promo_image_alt_text"
+        label: "Promo Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "promo_code"
+        label: "Promo Code"
+        description: null
+        datatype: "text"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "promo_print_coupon"
+        label: "Promo Print Coupon"
+        description: null
+        datatype: "files"
+        sort: 6
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 7
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Patient Forms"
+    name: "patient_forms"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: "patient_resources"
+    view: "/views/patient_forms.tpl"
+    content: "/content/patient_forms.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "download_form_note"
+        label: "Downloadable Forms Note"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "embedded_form_instrux"
+        label: "Form Instructions"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 6
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "default_fields"
+        label: "Default Form Fields"
+        description: null
+        datatype: "dropdown"
+        sort: 7
+        required: null
+        relationship: null
+        settings:
+          list: 1
+          options:
+            no_form: "No Form"
+            patient_address: "Patient Address"
+            patient_address_and_pet_info: "Patient address and Pet Info"
+            patient_basic: "Patient Basic"
+      - name: "additional_fields"
+        label: "Additional Form Fields (add additional fields that you've created in the Custom Form dataset)"
+        description: null
+        datatype: "one_to_many"
+        sort: 8
+        required: null
+        relationship:
+          name: "custom_form_fields"
+          display: "custom_field_name"
+        settings:
+          list: 1
+      - name: "send_form_to"
+        label: "Send Form To (email address)"
+        description: null
+        datatype: "text"
+        sort: 9
+        required: true
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Payment Options"
+    name: "payment_options"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: "patient_resources"
+    view: "/views/payment_options.tpl"
+    content: "/content/payment_options.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Online Forms"
+    name: "online_forms"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "patient_forms"
+    content: "/content/online_forms.yaml"
+    fields:
+      - name: "form_title"
+        label: "Form Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "form_description"
+        label: "Form Description"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "form_pdf"
+        label: "Form PDF"
+        description: null
+        datatype: "files"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Vet Services"
+    name: "vet_services"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: true
+    parent: "services"
+    view: "/views/vet_services.tpl"
+    content: "/content/vet_services.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "service_page_alt_text"
+        label: "Service Page Alt Text"
+        description: null
+        datatype: "text"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 6
+        required: true
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Meet the Team"
+    name: "meet_the_team"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: "about_us"
+    view: "/views/meet_the_team.tpl"
+    content: "/content/meet_the_team.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "number_of_cols"
+        label: "Number of Photos in a Row (if 3 is selected,  there will be 3 photos per row)"
+        description: null
+        datatype: "dropdown"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+          options:
+            2: "6 photos"
+            3: "4 photos"
+            4: "3 photos"
+            6: "2 photos"
+            12: "1 photo"
+  - description: null
+    label: "Testimonials"
+    name: "testimonials"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: "about_us"
+    view: "/views/testimonials.tpl"
+    content: "/content/testimonials.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Careers"
+    name: "careers"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: "about_us"
+    view: "/views/careers.tpl"
+    content: "/content/careers.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Our Videos"
+    name: "our_videos"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: "about_us"
+    view: "/views/our_videos.tpl"
+    content: "/content/our_videos.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Our Photos"
+    name: "our_photos"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: "about_us"
+    view: "/views/our_photos.tpl"
+    content: "/content/our_photos.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Employee Category"
+    name: "employee_category"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "meet_the_team"
+    content: "/content/employee_category.yaml"
+    fields:
+      - name: "employee_category"
+        label: "Employee Category"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Employees"
+    name: "employees"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "meet_the_team"
+    content: "/content/employees.yaml"
+    fields:
+      - name: "employee_first_name"
+        label: "Employee First Name"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "employee_last_name"
+        label: "Employee Last Name"
+        description: null
+        datatype: "text"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "employee_photo"
+        label: "Employee Photo"
+        description: null
+        datatype: "images"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "employee_bio"
+        label: "Employee Bio"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "employee_category"
+        label: "Employee Category"
+        description: null
+        datatype: "one_to_one"
+        sort: 5
+        required: null
+        relationship:
+          name: "employee_category"
+          display: "employee_category"
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 6
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Client Testimonials"
+    name: "client_testimonials"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "testimonials"
+    content: "/content/client_testimonials.yaml"
+    fields:
+      - name: "client_first_name"
+        label: "Client First Name"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "client_last_name"
+        label: "Client Last Name"
+        description: null
+        datatype: "text"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "client_location"
+        label: "Client Location"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "client_testimonial"
+        label: "Client Testimonial"
+        description: null
+        datatype: "textarea"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Career Opportunities"
+    name: "career_opportunities"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "careers"
+    content: "/content/career_opportunities.yaml"
+    fields:
+      - name: "job_title"
+        label: "Job Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "job_location"
+        label: "Job Location"
+        description: null
+        datatype: "text"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "job_description"
+        label: "Job Description"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "About Us Videos"
+    name: "about_us_videos"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "our_videos"
+    content: "/content/about_us_videos.yaml"
+    fields:
+      - name: "video_title"
+        label: "Video Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "youtube_id"
+        label: "YouTube ID"
+        description: null
+        datatype: "text"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "video_description"
+        label: "Video Description"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "About Us Photos"
+    name: "about_us_photos"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "our_photos"
+    content: "/content/about_us_photos.yaml"
+    fields:
+      - name: "photo_title"
+        label: "Photo Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "photo_category"
+        label: "Photo Category"
+        description: null
+        datatype: "text"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "about_us_photo"
+        label: "About Us Photo"
+        description: null
+        datatype: "images"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "about_us_photo_alt_text"
+        label: "About Us Photo Alt Text"
+        description: null
+        datatype: "text"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "photo_description"
+        label: "Photo Description"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 6
+        required: null
+        relationship: null
+        settings:
+          list: 1
+  - description: null
+    label: "Office Tour"
+    name: "office_tour"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: "about_us"
+    view: "/views/office_tour.tpl"
+    content: "/content/office_tour.yaml"
+    fields:
+      - name: "page_title"
+        label: "Page Title"
+        description: null
+        datatype: "text"
+        sort: 0
+        required: true
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image"
+        label: "Main Image"
+        description: null
+        datatype: "images"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "main_image_alt_text"
+        label: "Main Image Alt Text"
+        description: null
+        datatype: "text"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "youtube_id"
+        label: "YouTube ID"
+        description: null
+        datatype: "text"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "body_text"
+        label: "Body Text"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "video_iframe_title_attribute"
+        label: "Video iframe Title Attribute"
+        description: ""
+        datatype: "text"
+        sort: 4
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: null
+    label: "Office Photos"
+    name: "office_photos"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "office_tour"
+    content: "/content/office_photos.yaml"
+    fields:
+      - name: "photo_title"
+        label: "Photo Title"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "photo_category"
+        label: "Photo Category"
+        description: null
+        datatype: "text"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "office_photo"
+        label: "Office Photo"
+        description: null
+        datatype: "images"
+        sort: 3
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "office_photo_alt_text"
+        label: "Office Photo Alt Text"
+        description: null
+        datatype: "text"
+        sort: 4
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "photo_description"
+        label: "Photo Description"
+        description: null
+        datatype: "wysiwyg_advanced"
+        sort: 5
+        required: null
+        relationship: null
+        settings:
+          list: 1
+      - name: "sort_order"
+        label: "Sort Order"
+        description: null
+        datatype: "sort"
+        sort: 6
+        required: null
+        relationship: null
+        settings:
+          list: 1

@@ -1,0 +1,22 @@
+
+  - id: "eb47-a4bf-2c60"
+    web:
+      metaDescription: ""
+      metaTitle: "Our Videos"
+      metaLinkText: "Our Videos"
+      metaKeywords: null
+      pathPart: "our-videos"
+      path: "/about-us/our-videos/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/about-us/"
+    meta:
+      sort: 47
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/standard-hero.jpg"
+      main_image_alt_text: ""
+      page_title: "Our Videos"

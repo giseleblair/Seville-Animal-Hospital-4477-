@@ -1,0 +1,22 @@
+
+  - id: "4e55-470c-696e"
+    web:
+      metaDescription: ""
+      metaTitle: "Payment Options"
+      metaLinkText: "Payment Options"
+      metaKeywords: null
+      pathPart: "payment-options"
+      path: "/patient-resources/payment-options/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/patient-resources/"
+    meta:
+      sort: 36
+      listed: true
+    data:
+      body_text: "<p>We offer our clients a variety of payment options, including CareCredit and some pet health insurance plans. Please see a full list of all available options below.</p>\n<ul>\n<li>VISA</li>\n<li>MasterCard</li>\n<li>American Express</li>\n<li>Discover</li>\n<li>CareCredit</li>\n<li>Pet Insurance</li>\n<li>Cash&nbsp;</li>\n</ul>\n<h4>&nbsp;</h4>\n<p><img title=\"payment-options-carecredit-logo.jpg\" src=\"https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/payment-options-carecredit-logo.jpg\" alt=\"\" width=\"196\" height=\"32\" /></p>\n<p>We also accept CareCredit. Learn more about&nbsp;<a href=\"https://www.carecredit.com/\" target=\"_blank\" rel=\"noopener\">CareCredit</a>.</p>"
+      main_image: ""
+      main_image_alt_text: ""
+      page_title: "Payment Options"

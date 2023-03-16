@@ -1,0 +1,27 @@
+
+  - id: "e4d5-dc7f-c145"
+    web:
+      metaDescription: ""
+      metaTitle: "Patient Forms"
+      metaLinkText: "Patient Forms"
+      metaKeywords: null
+      pathPart: "patient-forms"
+      path: "/patient-resources/patient-forms/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/patient-resources/"
+    meta:
+      sort: 35
+      listed: true
+    data:
+      additional_fields: ""
+      body_text: "Please find most of our patient forms below."
+      default_fields: ""
+      download_form_note: "Please see a list of our most common forms below. Once you find the form that you need, click the PDF icon to download."
+      embedded_form_instrux: ""
+      main_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/patient-forms-main-image.jpg"
+      main_image_alt_text: ""
+      page_title: "Patient Forms"
+      send_form_to: ""

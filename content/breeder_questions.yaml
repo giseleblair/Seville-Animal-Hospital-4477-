@@ -1,0 +1,22 @@
+
+  - id: "dc70-b80b-ace5"
+    web:
+      metaDescription: ""
+      metaTitle: "Breeder Questions"
+      metaLinkText: "Breeder Questions"
+      metaKeywords: null
+      pathPart: "breeder-questions"
+      path: "/resources/breeder-questions/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 31
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/standard-hero.jpg"
+      main_image_alt_text: ""
+      page_title: "Breeder Questions"

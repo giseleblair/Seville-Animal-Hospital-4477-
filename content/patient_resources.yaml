@@ -1,0 +1,22 @@
+
+  - id: "81fd-0446-fc70"
+    web:
+      metaDescription: ""
+      metaTitle: "Patient Resources"
+      metaLinkText: "Patient Resources"
+      metaKeywords: null
+      pathPart: "patient-resources"
+      path: "/patient-resources/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 3
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://ddp2ys.media.zestyio.com/pet-frenchie-city-grass-happy.jpg"
+      main_image_alt_text: "french bulldog in green harness at a dog park"
+      page_title: "Patient Resources"

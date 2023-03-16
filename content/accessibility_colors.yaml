@@ -1,0 +1,47 @@
+
+  - id: "a226-118c-981f"
+    web:
+      metaDescription: ""
+      metaTitle: "Page"
+      metaLinkText: "Page"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 13
+      listed: true
+    data:
+      all_buttons: ""
+      all_buttons_hover: ""
+      all_icons: ""
+      all_nav_items: ""
+      all_nav_items_hover: ""
+      all_timeline_titles: ""
+      footer_text: ""
+      h3_headers_employee_cats: ""
+      h3_headers_squares_title: ""
+      homepage_about_section: ""
+      homepage_squares_buttons: ""
+      homepage_squares_buttons_hover: ""
+      link_hover_color: ""
+      links: ""
+      nav_active_item_bg_color: ""
+      phone_number: ""
+      sectionlinks: ""
+      site_name: ""
+      site_name_hover: ""
+      site_wide: ""
+      slider_text: ""
+      social_icon_hover: ""
+      subpage_headers_h1: ""
+      subpage_hero_text: ""
+      testimonial_headline_and_location: null
+      testimonial_name_and_body_text: ""
+      timeline_body_text_header_subtitle: ""
+      timeline_button: ""
+      timeline_button_hover: ""

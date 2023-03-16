@@ -1,0 +1,93 @@
+
+  - id: "27d9-2413-207b"
+    web:
+      metaDescription: ""
+      metaTitle: "Care Packages"
+      metaLinkText: "Care Packages"
+      metaKeywords: null
+      pathPart: "care-packages"
+      path: "/services/care-packages/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 42
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/general-health-main-image.jpeg"
+      main_image_alt_text: ""
+      page_title: "Care Packages"
+      service_page_alt_text: ""
+      sort_order: 3
+  - id: "14c6-2fdb-26bf"
+    web:
+      metaDescription: ""
+      metaTitle: "Vaccines"
+      metaLinkText: "Vaccines"
+      metaKeywords: null
+      pathPart: "vaccines"
+      path: "/services/vaccines/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 41
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/general-health-main-image.jpeg"
+      main_image_alt_text: ""
+      page_title: "Vaccines"
+      service_page_alt_text: ""
+      sort_order: 2
+  - id: "04c3-a559-7fbf"
+    web:
+      metaDescription: ""
+      metaTitle: "Dental Care"
+      metaLinkText: "Dental Care"
+      metaKeywords: null
+      pathPart: "dental-care"
+      path: "/services/dental-care/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 43
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/general-health-main-image.jpeg"
+      main_image_alt_text: ""
+      page_title: "Dental Care"
+      service_page_alt_text: ""
+      sort_order: 4
+  - id: "74bf-fd0c-f1fd"
+    web:
+      metaDescription: ""
+      metaTitle: "General Health"
+      metaLinkText: "General Health"
+      metaKeywords: null
+      pathPart: "general-health"
+      path: "/services/general-health/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 40
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/general-health-main-image.jpeg"
+      main_image_alt_text: ""
+      page_title: "General Health"
+      service_page_alt_text: ""
+      sort_order: 1

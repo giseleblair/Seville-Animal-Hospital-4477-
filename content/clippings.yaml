@@ -1,0 +1,30 @@
+
+  - id: "bdde-bc00-350c"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      below_logo_text: ""
+      footer_text: "PetDesk with Zesty.io"
+      hero_body_text_font_size: "75"
+      hero_lead_in_font_size: "40"
+      homepage_header_font_style: "Droid Serif, serif"
+      logo: "https://xv4bxh1p.media.zestyio.com/5f342ab36aff3_mewsahlogo2cmr.png"
+      logo_height: "100"
+      petdesk_ref_code: "0f25e1d2-0f40-4ccc-92b1-d502e9cdb61b"
+      phone: "(330) 769-3838"
+      pop_up_content: ""
+      site_name: "Seville Animal Hospital"
+      telephone_number_height: "20"

@@ -1,0 +1,24 @@
+
+  - id: "af64-51a9-4bb4"
+    web:
+      metaDescription: ""
+      metaTitle: "Home"
+      metaLinkText: "Home"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data:
+      background_pattern: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/mooning.png"
+      homepage_title: "homepage"
+      timeline_btn_links_to: ""
+      timeline_button_text: ""
+      timeline_subtitle: ""
+      timeline_title: ""
